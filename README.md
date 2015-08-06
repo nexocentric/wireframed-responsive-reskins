@@ -1,6 +1,6 @@
 # Things
 
-This project is based off of [this}(https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_websites) list of Creative Common licensed websites.
+This project is based off of [this](https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_websites) list of Creative Common licensed websites.
 
 This is being done purely for practice so that I could get used to the tools that I have chosen for doing web design.
 
