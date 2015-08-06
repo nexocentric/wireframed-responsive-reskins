@@ -8,4 +8,4 @@ These will all be remixes, but the initial wireframe for each site will be based
 
 ## Attribution / Referenced sites
 
-1. [CcMixter](http://ccmixter.org/)
+1. [CcMixter](http://ccmixter.org/) [Legal](https://creativecommons.org/licenses/by/3.0/us/legalcode)
